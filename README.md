@@ -1,1 +1,1 @@
-# Mini-Go-Projects
+# Mini Go Projects
